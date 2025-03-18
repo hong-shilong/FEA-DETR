@@ -1,0 +1,45 @@
+# Python 编译文件
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 分发/打包生成的文件
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# 虚拟环境
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# PyCharm 文件
+.idea/
+*.iml
+out/
+
+# Jupyter Notebook 附属文件
+.ipynb_checkpoints/
+
+# VSCode 文件
+.vscode/
+
+# macOS 附属文件
+.DS_Store
+
+# Windows 附属文件
+Thumbs.db

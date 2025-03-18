@@ -1,0 +1,14 @@
+numpy==1.24.4
+onnx
+onnxruntime
+pycocotools
+PyYAML
+scipy
+timm
+scipy
+thop
+opencv-python
+einops
+tensorboard
+PyWavelets
+pytorch_wavelets
