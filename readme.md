@@ -1,4 +1,4 @@
-# FEADETR
+# FEA-DETR: An Enhanced DETR for Detecting Prohibited Objects in X-Ray Images Using Frequency and Edge Aware Information
 
 This repository contains the official implementation of [FEA-DETR](https://ieeexplore.ieee.org/abstract/document/10889378/).
 
